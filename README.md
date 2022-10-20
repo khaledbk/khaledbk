@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledbk&show_icons=true&count_private=true&theme=dark&&hide_border=true&layout=compact"      alt="GitHub Stats for Khaled BK" >
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=khaledbk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Khaled BK"/>
+</p>
 <!--
 **khaledbk/khaledbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
